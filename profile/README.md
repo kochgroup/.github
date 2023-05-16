@@ -11,4 +11,4 @@
 
 ! You can apply until the 18.06.2023 at its homepage below.
 ```
-[AI4MedChem Homepage](https://www.uni-muenster.de/Chemie.pz/forschen/ag/koch/ai4medchem.html)
+[![](https://github.com/kochgroup/.github/blob/main/button_ai4mc.svg)](https://www.uni-muenster.de/Chemie.pz/forschen/ag/koch/ai4medchem.html)
