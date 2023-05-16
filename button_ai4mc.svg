@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="155"
+   height="44"
+   viewBox="0 0 155 44"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="button_ai4mc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.3111111"
+     inkscape:cx="52.245763"
+     inkscape:cy="33.940678"
+     inkscape:window-width="1512"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.203389,-56.440678)">
+    <rect
+       style="fill:#00578a;fill-opacity:0.860068;stroke-width:1.21057"
+       id="rect234"
+       width="155"
+       height="44"
+       x="12.203389"
+       y="56.440678"
+       ry="22" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.5602px;line-height:0;fill:#00578a;fill-opacity:0.860068;stroke-width:1.54202"
+       x="28.374159"
+       y="85.523308"
+       id="text1727"><tspan
+         sodipodi:role="line"
+         id="tspan1725"
+         x="28.374159"
+         y="85.523308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.5602px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#ffffff;fill-opacity:0.860068;stroke-width:1.54202">AI4MedChem</tspan></text>
+  </g>
+</svg>
